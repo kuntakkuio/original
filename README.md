@@ -7,9 +7,9 @@
 
 ## About Me
 
--  **Name**: Bernn
--  **Gender**: -
--  **Current Role** -
+-  **Name**: Agathaa
+-  **Gender**: Male
+-  **Current Role** Progammer
 -  **Age**: 17yo
 ---
 
